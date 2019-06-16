@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Odtwarzacz.Playlista"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Odtwarzacz"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" HorizontalAlignment="Left" VerticalAlignment="Top" Height="320" Width="322">
+    <Grid Width="320" Height="320">
+        <Button Name="PrzyciskDodaj" Content="Dodaj utwór" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="10,0,0,0" Click="PrzyciskDodaj_Click"/>
+        <Button Name="PrzyciskWczytaj" Content="Wczytaj playlistę" Margin="106,0" VerticalAlignment="Top" Width="100" HorizontalAlignment="Center" Click="PrzyciskWczytaj_Click"/>
+        <Button Name="PrzyciskZapisz" Content="Zapisz playlistę" VerticalAlignment="Top" Width="100" HorizontalAlignment="Right" Margin="0,0,10,0" Click="PrzyciskZapisz_Click"/>
+        <Label Name="NazwaPlaylisty" Content="Nowa playlista" HorizontalAlignment="Center" Margin="0,0,0,274" VerticalAlignment="Bottom"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="259" Margin="10,51,0,0" VerticalAlignment="Top" Width="300">
+            <StackPanel Name="lista_piosenek" Width="281" HorizontalAlignment="Left" VerticalAlignment="Top" MinHeight="100"/>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

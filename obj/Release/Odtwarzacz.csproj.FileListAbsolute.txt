@@ -1,0 +1,14 @@
+D:\Programowanie\Cpp\Odtwarzacz\bin\Release\Odtwarzacz.exe.config
+D:\Programowanie\Cpp\Odtwarzacz\bin\Release\Odtwarzacz.exe
+D:\Programowanie\Cpp\Odtwarzacz\bin\Release\Odtwarzacz.pdb
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\MainWindow.g.cs
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\App.g.cs
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\Odtwarzacz_MarkupCompile.cache
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\Odtwarzacz_MarkupCompile.lref
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\MainWindow.baml
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\Odtwarzacz.g.resources
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\Odtwarzacz.Properties.Resources.resources
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\Odtwarzacz.csproj.GenerateResource.cache
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\Odtwarzacz.csproj.CoreCompileInputs.cache
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\Odtwarzacz.exe
+D:\Programowanie\Cpp\Odtwarzacz\obj\Release\Odtwarzacz.pdb
